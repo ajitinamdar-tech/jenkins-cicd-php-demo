@@ -6,3 +6,4 @@
  <?php echo '<p>About us!</p>'; ?> 
  </body>
 </html>
+ 
