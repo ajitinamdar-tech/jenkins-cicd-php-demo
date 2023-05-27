@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! Declarative example-text</p>'; ?> 
+ <?php echo '<p>Hello world from PHP! Declarative example php app</p>'; ?> 
  </body>
 </html>
