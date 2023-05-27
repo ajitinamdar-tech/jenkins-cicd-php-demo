@@ -17,8 +17,3 @@ pipeline {
                     
     }
 }
-        stage('Deploy') {
-            steps {
-                sh 'scp -r -o StrictHostKeyChecking=no ${WORKSPACE}/* root@<ip>:/var/www/html/<jpb-name>'
-            }
-        }
